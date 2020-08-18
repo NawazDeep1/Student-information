@@ -1,0 +1,30 @@
+C:\Users\Admin\source\repos\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Admin\source\repos\Final Project\bin\Debug\Final Project.exe
+C:\Users\Admin\source\repos\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Admin\source\repos\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Final Project\obj\Debug\Final_Project.GUI.Student_Information.resources
+C:\Users\Admin\source\repos\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\Admin\source\repos\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Final Project\obj\Debug\Final Project.exe
+C:\Users\Admin\source\repos\Final Project\obj\Debug\Final Project.pdb
+C:\Users\Admin\Downloads\20200728153653_Final_NAWAZ_DEEP_2014378\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Admin\Downloads\20200728153653_Final_NAWAZ_DEEP_2014378\Final Project\bin\Debug\Final Project.exe
+C:\Users\Admin\Downloads\20200728153653_Final_NAWAZ_DEEP_2014378\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Admin\Downloads\20200728153653_Final_NAWAZ_DEEP_2014378\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\20200728153653_Final_NAWAZ_DEEP_2014378\Final Project\obj\Debug\Final_Project.GUI.Student_Information.resources
+C:\Users\Admin\Downloads\20200728153653_Final_NAWAZ_DEEP_2014378\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\Admin\Downloads\20200728153653_Final_NAWAZ_DEEP_2014378\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\20200728153653_Final_NAWAZ_DEEP_2014378\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\20200728153653_Final_NAWAZ_DEEP_2014378\Final Project\obj\Debug\Final Project.exe
+C:\Users\Admin\Downloads\20200728153653_Final_NAWAZ_DEEP_2014378\Final Project\obj\Debug\Final Project.pdb
+C:\Users\Admin\Downloads\Lasalle college\20200728153653_Final_NAWAZ_DEEP_2014378\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Admin\Downloads\Lasalle college\20200728153653_Final_NAWAZ_DEEP_2014378\Final Project\bin\Debug\Final Project.exe
+C:\Users\Admin\Downloads\Lasalle college\20200728153653_Final_NAWAZ_DEEP_2014378\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Admin\Downloads\Lasalle college\20200728153653_Final_NAWAZ_DEEP_2014378\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
+C:\Users\Admin\Downloads\Lasalle college\20200728153653_Final_NAWAZ_DEEP_2014378\Final Project\obj\Debug\Final_Project.GUI.Student_Information.resources
+C:\Users\Admin\Downloads\Lasalle college\20200728153653_Final_NAWAZ_DEEP_2014378\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\Admin\Downloads\Lasalle college\20200728153653_Final_NAWAZ_DEEP_2014378\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Lasalle college\20200728153653_Final_NAWAZ_DEEP_2014378\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Lasalle college\20200728153653_Final_NAWAZ_DEEP_2014378\Final Project\obj\Debug\Final Project.exe
+C:\Users\Admin\Downloads\Lasalle college\20200728153653_Final_NAWAZ_DEEP_2014378\Final Project\obj\Debug\Final Project.pdb
